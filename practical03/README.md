@@ -1,4 +1,4 @@
-# Practical 2
+# Practical 3
 
 This folder contains practical 3 source code. This code estimates the value of the integral of $tan(x)$ between $0$ and $\frac{\pi}{3}$ and compares the approximation with the correct answer for the integral.
 
