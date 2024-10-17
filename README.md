@@ -1,9 +1,9 @@
-#Git Assignment Project
+# Git Assignment Project
 
-*Name: Stephen Garry
-*Student ID Number: 20475366
+* Name: Stephen Garry
+* Student ID Number: 20475366
 
-##Introduction
+## Introduction
 
 This is my Repo for the 2024/25 Scientific Programming Concepts Module. This master file will be update each time a practical is added to the github.
 
