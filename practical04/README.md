@@ -11,7 +11,7 @@ Use the following line of code to compile the source code:
 ## How to Execute
 Use the following line of code to execute the code:
 
-* ./TrapC
+* ./TrapLoopC
 
 ## Outputs
 The following is the outputs for the code:
