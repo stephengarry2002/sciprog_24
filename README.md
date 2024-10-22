@@ -10,3 +10,7 @@ This is my Repo for the 2024/25 Scientific Programming Concepts Module. This mas
 ## Practical 3
 
 * Added on 17/10/2024
+
+## Practical 4
+
+* Added on 22/10/2024
