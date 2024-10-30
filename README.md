@@ -28,3 +28,13 @@ This is my Repo for the 2024/25 Scientific Programming Concepts Module. This mas
 * Approximates the value of arctanh(x) between x = [-0.9,0.9] using Maclaurin series up to a certain percision specified by the user.
 
 * Compares this to a natural log approximation of arctanh(x) on the same interval. 
+
+## Practical 6
+
+* Added on 30/10/2024
+
+* Writes a code to do matrix multiplication with a given matrix
+
+* Compiles this code in different ways
+
+* Compiles this code normally and seperatly by joining files together during compilation
