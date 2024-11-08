@@ -38,3 +38,13 @@ This is my Repo for the 2024/25 Scientific Programming Concepts Module. This mas
 * Compiles this code in different ways
 
 * Compiles this code normally and seperatly by joining files together during compilation
+
+## Practical 7
+
+* Added on 08/11/2024
+
+* Writes a code to estimate the value of $e$ using a Taylor Serirs
+
+* Compares this with the real value of $e$
+
+* Writes a code to print array of ones using pointer arithmatic
