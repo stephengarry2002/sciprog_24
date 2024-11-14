@@ -48,3 +48,11 @@ This is my Repo for the 2024/25 Scientific Programming Concepts Module. This mas
 * Compares this with the real value of $e$
 
 * Writes a code to print array of ones using pointer arithmatic
+
+## Practical 8
+
+* Added on 14/11/2024
+
+* Writes a code to find the greatest common divisor using two variations of Euclids algorithm
+
+* Uses a recursive and iterative to return the greatest common divisor of two integers
