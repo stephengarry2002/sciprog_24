@@ -66,3 +66,19 @@ This is my Repo for the 2024/25 Scientific Programming Concepts Module. This mas
 * Writes a code to find the greatest common divisor using two variations of Euclids algorithm
 
 * Uses a recursive and iterative to return the greatest common divisor of two integers
+
+## Practical 9
+
+* Added on 19/11/2024
+
+* Writes a code to determine if a square matrix is magic or not
+
+* Does this by checking if the sum of the rows, columns and diagnoals are equal
+
+* Reads in a file and allocates memory 
+
+* Gives and answer depending on the file inputted and then frees up memory
+
+## Conclusion
+
+This is the last practical for this module and no more source code will be uploaded to this github.
