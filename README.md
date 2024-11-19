@@ -8,7 +8,7 @@
 This is my Repo for the 2024/25 Scientific Programming Concepts Module. This master file will be update each time a practical is added to the github.
 
 
-##Practical 2
+## Practical 2
 
 * Added on 19/11/2024 (forgot to add previosly)
 
